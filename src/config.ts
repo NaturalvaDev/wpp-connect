@@ -3,7 +3,7 @@ import { ServerOptions } from './types/ServerOptions';
 export default {
   secretKey: '71B9FD65C9FCCF22F65EC3535420D287',
   host: 'http://localhost',
-  port: '21465',
+  port: '9000',
   deviceName: 'SICIVA',
   poweredBy: 'SICIVA',
   startAllSession: true,
