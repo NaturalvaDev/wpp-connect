@@ -1,11 +1,11 @@
 import { ServerOptions } from './types/ServerOptions';
 
 export default {
-  secretKey: 'THISISMYSECURETOKEN',
+  secretKey: '71B9FD65C9FCCF22F65EC3535420D287',
   host: 'http://localhost',
   port: '21465',
-  deviceName: 'WppConnect',
-  poweredBy: 'WPPConnect-Server',
+  deviceName: 'SICIVA',
+  poweredBy: 'SICIVA',
   startAllSession: true,
   tokenStoreType: 'file',
   maxListeners: 15,
