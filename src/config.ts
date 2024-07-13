@@ -14,7 +14,7 @@ export default {
     url: "https://siciva.naturalva.co.id/webhook/receive",
     autoDownload: true,
     uploadS3: false,
-    readMessage: true,
+    readMessage: false,
     allUnreadOnStart: false,
     listenAcks: true,
     onPresenceChanged: true,
